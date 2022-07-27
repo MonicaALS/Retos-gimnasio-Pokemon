@@ -1,0 +1,129 @@
+body{background-color:#492349;
+    color: white;}
+
+    .titulo{
+        margin: 10px;
+        padding: 10px;
+        background-color: #fff;
+        color: #f14;
+        border-radius: 8px;
+        font-weight: bold;
+
+    }
+
+    .discografia{
+        margin: 10px;
+        padding: 10px;
+        background-color: #fff;
+        color: #f14;
+        border-radius: 8px;
+        font-weight: bold;
+
+    }
+
+
+    .square1{
+        width:100px;
+        background-color: rgb(192, 190, 57);
+        margin:10px;
+        padding: 20px;
+        border-radius: 8px;
+        color:black;
+        font-weight: bold;
+
+
+    }
+
+    .square2{
+        width:100px;
+        background-color: rgb(88, 174, 231);
+        margin:10px;
+        padding: 20px;
+        border-radius: 8px;
+        color:black;
+        font-weight: bold;
+
+
+    }
+
+    .square3{
+        width:100px;
+        background-color: rgb(78, 228, 195);
+        margin:10px;
+        padding: 20px;
+        border-radius: 8px;
+        color:black;
+        font-weight: bold;
+
+    }
+
+    .square4{
+        width:100px;
+        background-color: rgb(190, 106, 169);
+        margin:10px;
+        padding: 20px;
+        border-radius: 8px;
+        color:black;
+        font-weight: bold;
+
+
+    }
+
+
+
+
+    .imagen{
+
+        border-radius: 10px;
+        margin: 10px;
+
+    }
+    .bibliografia{
+        margin: 10px;
+        padding: 10px;
+        background-color: #fff;
+        color: #f14;
+        border-radius: 8px;
+        font-weight: bold;
+
+    }
+
+    .facebook{
+        margin: 20px;
+        padding: 15px;
+        background-color: #3b5998;
+        color:white;
+        font-size:20px;
+        border: 2px solid #cccccc;
+        border-radius: 10px;
+    }
+    
+    .instagram{
+        margin: 20px;
+        padding: 15px;
+        background-color: #8134af;
+        color:white;
+        font-size:20px;
+        border: 2px solid #cccccc;
+        border-radius: 10px;
+    }
+    
+    .twitter{
+        margin: 20px;
+        padding: 15px;
+        background-color: #00acee;
+        color:white;
+        font-size:20px;
+        border: 2px solid #cccccc;
+        border-radius: 10px;
+    }
+
+    .youtube{
+        margin: 20px;
+        padding: 15px;
+        background-color: #FF0101;
+        color:white;
+        font-size:20px;
+        border: 2px solid #cccccc;
+        border-radius: 10px;
+    }
